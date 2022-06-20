@@ -24,6 +24,8 @@ and added to the html with:
     <link rel="stylesheet" href="/public/css/vue.css">
 ```
 
+demo page:
+https://afa7789.com/vue
 
 ## Recommended IDE Setup
 
