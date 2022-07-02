@@ -1,6 +1,14 @@
-# test
+# Example Blockies
 
-This template should help get you started developing with Vue 3 in Vite.
+This is just a mockup on how to use the Blockies component which I created.
+
+## To see more of the component check:
+
+This is the component code:
+https://github.com/afa7789/BlockiesVue
+
+This is the npm package of it:
+https://www.npmjs.com/package/blockies-vue
 
 
 ## USED in my website.
